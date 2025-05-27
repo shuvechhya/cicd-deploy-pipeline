@@ -69,5 +69,3 @@ Make sure to replace the following dummy values in `.gitlab-ci.yml` with your ac
 - `your-group/uat_ssp.git` → your actual project path
 
 ---
-
-Maintained by your DevOps team.
